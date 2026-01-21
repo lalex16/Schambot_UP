@@ -24,6 +24,7 @@ Schambot is an AI-powered therapeutic chatbot that runs via Signal Messenger and
 Schambot_UP/
 ├── requirements.txt       # Python dependencies
 ├── README.md              # Documentation
+├── CODE_STRUCTURE.md      # bot.py function overview
 ├── .gitignore             # Git exclusions
 │
 ├── src/
