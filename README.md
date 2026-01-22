@@ -207,7 +207,7 @@ curl -X POST http://localhost:8081/v1/send\
 | `/v1/receive/{number}` | GET | Receive messages |
 | `/v1/health` | GET | Health check |
 
-**Detailed API documentation:** http://localhost:8080/api-docs
+**Detailed API documentation:** https://bbernhard.github.io/signal-cli-rest-api/
 
 ---
 
