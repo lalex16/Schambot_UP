@@ -180,8 +180,6 @@ docker exec -it signal-bot signal-cli -u +YOURNUMBER verify CODE
 signal-cli listAccounts  
 ```
 
----
-
 **Testing:**
 
 Test if container is running:
